@@ -1,3 +1,3 @@
 public Main {
-    private String field1 = "m";
+    private String field1 = "majdg";
 }
