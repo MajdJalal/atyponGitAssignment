@@ -1,3 +1,3 @@
 public Main{
-    private Stgring name = "majd";
+    private String name = "ahmad";
 }
