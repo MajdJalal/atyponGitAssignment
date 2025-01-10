@@ -1,1 +1,3 @@
-public Main{}
+public Main{
+    private Stgring name = "majd";
+}
