@@ -1,1 +1,3 @@
-public Main {g}
+public Main {
+    private String field1 = "m";
+}
